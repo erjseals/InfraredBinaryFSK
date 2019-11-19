@@ -1,0 +1,5 @@
+# InfraredBinaryFSK
+
+## Authors
+
+* **Eric Seals**
